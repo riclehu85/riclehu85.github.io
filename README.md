@@ -12,7 +12,7 @@
  - Collaborated with cross-functional teams to implement design changes, reducing lead times by 4%
  - Assisted Senior Engineers in developing production test programs through parametric data analysis during Post Silicon Validation
 
-**Financial Accounting Intern @ Scott Streitfeld Accounting Firm, CPA (_May 2023 - August 2023)**
+**Financial Accounting Intern @ Scott Streitfeld Accounting Firm, CPA (_May 2023 - August 2023_)**
  - Applied proper code to invoices, files, and receipts to keep 100% accuracy of company and bank records
  - Audited and analyzed 500+ credit card transactions to assist senior accountant in sales tax verification
  - Analyzed account information and reconciled financial discrepancies to maintain records integrity
