@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Technical Skills: Python, R, Java
+#### Technical Skills: Python, R, Java
 
 ## Education
 - B.S., Data Science + Finance | University of Illinois Urbana-Champaign
